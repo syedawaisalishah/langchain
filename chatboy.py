@@ -4,7 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI,GoogleGenerativeAIEmbe
 import streamlit as st
 load_dotenv()
 
-st.header("Chat with Google Gemini-2.5-flash")
+st.header("Chat with tthe Google Gemini-2.5-flash")
 text=st.text_input("Ask me anything about France!")
 st.write("You asked: "+text)
 
