@@ -1,0 +1,5 @@
+venv/
+go.mod
+main.go
+.env
+*.go
