@@ -11,3 +11,6 @@ st.write("You asked: "+text)
 llm=ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.8)
 result=llm.invoke("What is the capital of France?")
 print(result)
+''
+''
+'fjjfj'
